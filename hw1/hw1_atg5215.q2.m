@@ -1,0 +1,1 @@
+function[y] = hw1_atg5215_q2(x, n)  format long;  n = 10**n;  y = round(x*n)/n;endfunction
